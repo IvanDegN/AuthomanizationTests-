@@ -1,0 +1,2 @@
+# AuthomanizationTests-
+Автоматизированное тестирование C#
